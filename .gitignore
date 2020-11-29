@@ -1,0 +1,11 @@
+.idea/
+*.iml
+tmp/
+dist/
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.gz
+*.tar.gz
+.pytest_cache/
